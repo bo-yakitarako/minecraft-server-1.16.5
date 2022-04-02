@@ -1,0 +1,10 @@
+*
+!.gitignore
+!/config
+!/config/*smp-common.toml
+!/mods
+!/mods/**/*
+!README.md
+
+# mac
+*.DS_Store
