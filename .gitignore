@@ -4,6 +4,8 @@
 !/config/*smp-common.toml
 !/mods
 !/mods/**/*
+!/shaderpacks
+!/shaderpacks/*
 !README.md
 
 # mac
