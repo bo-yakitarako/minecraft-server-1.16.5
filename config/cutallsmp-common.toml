@@ -21,7 +21,7 @@
 	#String: "mod_cutall"
 	channelName = "mod_cutall"
 	#String: "oak_leaves,spruce_leaves,birch_leaves,jungle_leaves,acacia_leaves,dark_oak_leaves"
-	leavesIds = "oak_leaves,spruce_leaves,birch_leaves,jungle_leaves,acacia_leaves,dark_oak_leaves"
+	leavesIds = "oak_leaves,spruce_leaves,birch_leaves,jungle_leaves,acacia_leaves,dark_oak_leaves,nether_wart_block,warped_wart_block"
 	#String: "KEY_C"
 	Key = "KEY_C"
 	#Integer: 0
