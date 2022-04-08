@@ -8,7 +8,7 @@
 	#String: "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel,netherite_shovel"
 	itemIds = "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel,netherite_shovel"
 	#Boolean: false
-	DropGather = false
+	DropGather = true
 	#String: "grass_block, dirt, sand, gravel, farmland, snow_layer, clay, soul_sand, mycelium, coarse_dirt,soul_soil"
 	blockIds = "grass_block, dirt, sand, gravel, farmland, snow_layer, clay, soul_sand, mycelium, coarse_dirt,soul_soil, mekanism:block_salt"
 	#Integer: 0
@@ -17,7 +17,7 @@
 	#String: "mod_digall"
 	channelName = "mod_digall"
 	#Boolean: false
-	AutoCollect = false
+	AutoCollect = true
 	#String: "KEY_G"
 	Key = "KEY_G"
 	#Integer: 11
