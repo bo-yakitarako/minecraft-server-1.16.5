@@ -6,7 +6,7 @@
 	#Boolean: true
 	StartMode = true
 	#String: "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel,netherite_shovel"
-	itemIds = "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel,netherite_shovel"
+	itemIds = "iron_shovel, wooden_shovel, stone_shovel, diamond_shovel, golden_shovel,netherite_shovel, mekanismtools:iron_paxel, mekanismtools:diamond_paxel, mekanismtools:gold_paxel, mekanismtools:netherite_paxel, mekanismtools:bronze_paxel, mekanismtools:lapis_lazuli_paxel, mekanismtools:osmium_paxel"
 	#Boolean: false
 	DropGather = true
 	#String: "grass_block, dirt, sand, gravel, farmland, snow_layer, clay, soul_sand, mycelium, coarse_dirt,soul_soil"
